@@ -1,5 +1,4 @@
-#define STACK_FLAG_CHAR
-
+#define STACK_FLAG_INT
 #include "stack.h"
 #include <stdio.h>
 #include <stdlib.h>

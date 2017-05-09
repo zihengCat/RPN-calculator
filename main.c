@@ -19,7 +19,7 @@ int rpnCalc(void){
     sqStack s;
     initStack(&s);
 
-    printf("Enter a RPN Expression (end with '#'):  ");
+    printf("Enter a RPN Expression (end with '#'): ");
     char rpn_str[N];
     fgets(rpn_str, N, stdin);
 
